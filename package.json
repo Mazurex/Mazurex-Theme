@@ -6,7 +6,7 @@
   "publisher": "Mazurex",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Mazurex/Mazurex-Theme"
   },
   "engines": {
     "vscode": "^1.73.0"
