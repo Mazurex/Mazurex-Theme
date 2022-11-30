@@ -8,6 +8,14 @@
     "type": "git",
     "url": "https://github.com/Mazurex/Mazurex-Theme"
   },
+    "keywords": [
+      "mazurex",
+      "mazurex theme",
+      "theme",
+      "cool theme",
+      "mazurex cool theme",
+      "dark theme"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
