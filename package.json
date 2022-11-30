@@ -1,0 +1,26 @@
+{
+  "name": "mazurex-theme",
+  "displayName": "mazurex theme",
+  "description": "a theme i use lmao",
+  "version": "0.0.1",
+  "publisher": "Mazurex",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mazurex Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mazurex Theme-color-theme.json"
+      }
+    ]
+  }
+}
